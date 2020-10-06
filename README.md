@@ -1,2 +1,5 @@
 # hello-world
-Initial test repo
+
+Hello World! First branch has been created!
+
+Master will have this copy after merge.
